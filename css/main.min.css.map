@@ -4,7 +4,7 @@
     "sources": [
         "../sass/main.scss",
         "../sass/utils/_variables.scss",
-        "../sass/base/_fonts.scss",
+        "../sass/utils/_fonts.scss",
         "../sass/base/_normalize.scss",
         "../sass/base/_general.scss",
         "../sass/components/_logo.scss",
